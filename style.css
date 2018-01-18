@@ -1,0 +1,63 @@
+
+/*1st section with picture*/
+#div1
+{
+	background-image: url("back3.PNG");
+	background-color: black;
+	height: 370px;
+	text-align: center;
+}
+#para1{
+	color: white;
+	font-size: 30px;
+}
+#para2{
+	color: white;
+	font-size: 18px;
+	font-style: sans-serif;
+}
+#para3{
+	color: white;
+	font-style: 12px;
+}
+
+/*2nd Section about myself*/
+#div2
+{
+	background-color: white;
+	box-shadow: 0 0 9px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 70%;
+}
+/*3rd div about education*/
+#div3
+{
+	background-color: white;
+	box-shadow: 0 0 9px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 70%;
+}
+/*4th div about skills*/
+#div4
+{
+	background-color: white;
+	box-shadow: 0 0 9px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 70%;
+}
+/*5th div about experience*/
+#div5
+{
+	background-color: white;
+	box-shadow: 0 0 9px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 70%;
+}
+/*6th section about achievements*/
+#div6
+{
+	background-color: white;
+	box-shadow: 0 0 9px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 70%;
+}
